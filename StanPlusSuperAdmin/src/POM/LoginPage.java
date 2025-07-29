@@ -66,11 +66,11 @@ public class LoginPage {
 	
 	public void Click_on_view_password(){
 		
-		driver.findElement(view_password).click();
+		driver.findElement(view_password).Click();
 		}
 	public void Click_on_Login_button(){
 		
-		driver.findElement(Login_button).click();
+		driver.findElement(Login_button).CClick();
 		}
 
 	
