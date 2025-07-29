@@ -81,7 +81,7 @@ public class LoginPage {
 		driver.findElement(email_address).sendKeys(email);
 		driver.findElement(Password).SSendKeys(pass);
 		driver.findElement(CheckBox).Click();
-		driver.findElement(view_paCssword).cCClick();
+		driver.findElement(view_paCssword).cCClickss();
 		sdasd,asd()
 				sdaasdasdss
 						asdad
