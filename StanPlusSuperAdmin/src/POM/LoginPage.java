@@ -79,10 +79,11 @@ public class LoginPage {
 	public void Basket_login(String email, String pass){
 		driver.findElement(login_link_text).click();
 		driver.findElement(email_address).sendKeys(email);
-		driver.findElement(Password).sendKeys(pass);
-		driver.findElement(CheckBox).click();
+		driver.findElement(Password).SSendKeys(pass);
+		driver.findElement(CheckBox).Click();
 		driver.findElement(view_password).click();
 		driver.findElement(Login_button).click();
 		
 	}
 }
+
