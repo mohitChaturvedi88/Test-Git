@@ -88,7 +88,7 @@ public class LoginPage {
 						asdasd
 
 								d
-								s
+								email_address
 								d
 						asdasd
 		
