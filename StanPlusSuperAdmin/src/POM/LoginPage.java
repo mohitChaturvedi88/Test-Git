@@ -66,11 +66,11 @@ public class LoginPage {
 	
 	public void Click_on_view_password(){
 		
-		driver.findElement(view_password).Click();
+		driver.findElement(view_password).click();
 		}
 	public void Click_on_Login_button(){
 		
-		driver.findElement(Login_button).CClick();
+		driver.findElement(Login_button).click();
 		}
 
 	
@@ -79,20 +79,10 @@ public class LoginPage {
 	public void Basket_login(String email, String pass){
 		driver.findElement(login_link_text).click();
 		driver.findElement(email_address).sendKeys(email);
-		driver.findElement(Password).SSendKeys(pass);
-		driver.findElement(CheckBox).Click();
-		driver.findElement(view_paCssword).cCClickss();
-		sdasd,asd()
-				sdaasdasdss
-						asdad
-						asdasd
-
-dd
-								d  d
-								email_address
-								d
-						asdasd
+		driver.findElement(Password).sendKeys(pass);
+		driver.findElement(CheckBox).click();
+		driver.findElement(view_password).click();
+		driver.findElement(Login_button).click();
 		
 	}
 }
-
