@@ -83,6 +83,9 @@ public class LoginPage {
 		driver.findElement(CheckBox).click();
 		driver.findElement(view_password).click();
 		driver.findElement(Login_button).click();
+
+
+		Hellow mohit is my name
 		
 	}
 }
