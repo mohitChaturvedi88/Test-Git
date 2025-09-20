@@ -86,6 +86,16 @@ public class LoginPage {
 
 
 		Hellow mohit is my name
-		
+
+
+				sdfsdf
+		System.out.println(sdfsdfsdf
+		superdfs);
+	}
+
+	public By getPassword() {
+		asdasd
+				asdasdasdasd
+				asdasdasdasddasdasd
 	}
 }
